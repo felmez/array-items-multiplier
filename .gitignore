@@ -102,3 +102,20 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Sensitive Config
+config.js
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
